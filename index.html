@@ -1,0 +1,34 @@
+<body>
+	<div class="container">
+		<h1 class="page-title">
+			Sci-Fi Center
+		</h1>
+		<div class="canais">
+			<h3>Canais sobre programação</h3>
+			<ul id="ulCanais"></ul>
+			<h3>Canais sobre ciência</h3>
+			<ul id="ulCanaisCiencias"></ul>
+			<h3>Filmes</h3>
+			<ul id="ulFilmes"></ul>
+		</div>
+	</div>
+
+	<div id="divAddFilme">
+		<input type="text" id="nome" placeholder="Nome">
+		<input type="text" id="imagem" placeholder="Imagem"><br>
+		<input type="text" id="url" placeholder="Url">
+		<select id="opcoesCategoria">
+			<option value="ulCanais">Canais de programação</option>
+			<option value="ulCiencias">Canais de ciência</option>
+			<option value="ulFilmes">Filmes</option>
+		</select><br>
+		<button type="submit" id="btnAdicionar" onclick="adicionar()">Adicionar</button>
+	</div>
+	<footer><img src="https://cdn.dribbble.com/users/5666515/screenshots/20252226/media/d43d653ac94ed524d17078a00bf04c6e.png?resize=400x300&vertical=center" class="page-logo" alt=""></footer>
+
+	<a href="https://alura.com.br/" target="_blank">
+		<img src="https://www.alura.com.br/assets/img/home/alura-logo.svg" alt="" class="alura-logo">
+	</a>
+    <script src="index.js"></script>
+    <link rel="stylesheet" href="index.css">
+</body>
