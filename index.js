@@ -66,7 +66,6 @@ var imgCiencias = [
 	"https://yt3.ggpht.com/ytc/AKedOLRwT6Gj5kvdYFz1AQ6W-vNjBpJLsKMG43FfcgxySg=s176-c-k-c0x00ffffff-no-rj",
 	"https://yt3.ggpht.com/ytc/AKedOLQAFEZv_GJt1LyUVUr7oyaxeIFpDio3NmYjKxNipw=s176-c-k-c0x00ffffff-no-rj"
 ];
-
 var sobreFilmes = [
 	"matrix",
 	"Vingadores: Ultimato",
@@ -74,8 +73,7 @@ var sobreFilmes = [
 	"Homem-Aranha: Longe de Casa",
 	"Godzilla vs. Kong",
 	"Interestelar",
-	"One piece"
-	
+	"One Piece Stampede"
 ];
 
 var linkFilmes = [
@@ -85,19 +83,21 @@ var linkFilmes = [
 	"https://youtu.be/MqQdHaBtvGs", //Homem-Aranha Longe de casa
 	"https://youtu.be/kIET9yMABD8", //Godzilla vs Kong
 	"https://youtu.be/i6avfCqKcQo", //Interestelar
-	"https://youtu.be/S8_YwFLCh4U"
-	
+	"https://youtu.be/S8_YwFLCh4U" //OP:Stampede
 ];
 
 var imgFilmes = [
 	"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS682JCq78NAD-lXijKmF-w3uRzZWjZ5VkJmN7KT2Pu6g&s",
+	"https://th.bing.com/th/id/OIP.iAf-VzZLAZXHOb2HFuP8dgHaLH?w=186&h=279&c=7&r=0&o=5&dpr=1.38&pid=1.7",
 	"https://th.bing.com/th/id/OIP.YUgoHbONN0ZC-Mc3ELSa4AHaKl?w=186&h=265&c=7&r=0&o=5&dpr=1.38&pid=1.7",
 	"https://th.bing.com/th/id/OIP.kQHM65LZs42_AqYXIyZf-AHaK4?w=186&h=273&c=7&r=0&o=5&dpr=1.38&pid=1.7",
 	"https://th.bing.com/th/id/OIP.yTOqdszq4xijhQJoIdSoGQHaLH?w=186&h=279&c=7&r=0&o=5&dpr=1.38&pid=1.7",
 	"https://th.bing.com/th/id/OIP.CvtIgj5JfuahxvYLshH5FgHaK5?w=186&h=274&c=7&r=0&o=5&dpr=1.38&pid=1.7",
-	"https://th.bing.com/th/id/OIP.JkMKb1O3acQkvJVsON9yKwHaLH?w=186&h=279&c=7&r=0&o=5&dpr=1.38&pid=1.7",
 	"https://th.bing.com/th/id/OIP.JkMKb1O3acQkvJVsON9yKwHaLH?w=186&h=279&c=7&r=0&o=5&dpr=1.38&pid=1.7"
 ];
+
+
+
 
 for (var i = 0; i < linkCanais.length; i++) {
 	ulCanais.innerHTML += `<li onmouseenter="mostrarTexto()" onmouseleave="ocultarTexto()"><a href="${linkCanais[i]}" target="_blank"><img src="${imgCanais[i]}" ></a><label>${sobreCanais[i]}</label></li>`;
