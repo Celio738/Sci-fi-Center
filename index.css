@@ -22,7 +22,8 @@ body {
 }
 
 .page-title {
-	color: rgb(116, 26, 194);
+	font-family:fantasy;
+	color:white;
 	margin: 0 0 50px;
 	font-size: 50px;
 }
