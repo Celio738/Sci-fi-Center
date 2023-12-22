@@ -73,7 +73,7 @@ var sobreFilmes = [
 	"Vingadores: Guerra Infinita",
 	"Homem-Aranha: Longe de Casa",
 	"Godzilla vs. Kong",
-	"Interestelar",
+	"Interestelar"
 	
 ];
 
@@ -83,7 +83,7 @@ var linkFilmes = [
 	"https://youtu.be/4jGRyEa2jhE", //Vingadores Guerra Infinita
 	"https://youtu.be/MqQdHaBtvGs", //Homem-Aranha Longe de casa
 	"https://youtu.be/kIET9yMABD8", //Godzilla vs Kong
-	"https://youtu.be/i6avfCqKcQo", //Interestelar
+	"https://youtu.be/i6avfCqKcQo" //Interestelar
 	
 ];
 
