@@ -73,7 +73,8 @@ var sobreFilmes = [
 	"Vingadores: Guerra Infinita",
 	"Homem-Aranha: Longe de Casa",
 	"Godzilla vs. Kong",
-	"Interestelar"
+	"Interestelar",
+	"One piece"
 	
 ];
 
@@ -83,7 +84,8 @@ var linkFilmes = [
 	"https://youtu.be/4jGRyEa2jhE", //Vingadores Guerra Infinita
 	"https://youtu.be/MqQdHaBtvGs", //Homem-Aranha Longe de casa
 	"https://youtu.be/kIET9yMABD8", //Godzilla vs Kong
-	"https://youtu.be/i6avfCqKcQo" //Interestelar
+	"https://youtu.be/i6avfCqKcQo", //Interestelar
+	"https://youtu.be/S8_YwFLCh4U"
 	
 ];
 
@@ -93,6 +95,7 @@ var imgFilmes = [
 	"https://th.bing.com/th/id/OIP.kQHM65LZs42_AqYXIyZf-AHaK4?w=186&h=273&c=7&r=0&o=5&dpr=1.38&pid=1.7",
 	"https://th.bing.com/th/id/OIP.yTOqdszq4xijhQJoIdSoGQHaLH?w=186&h=279&c=7&r=0&o=5&dpr=1.38&pid=1.7",
 	"https://th.bing.com/th/id/OIP.CvtIgj5JfuahxvYLshH5FgHaK5?w=186&h=274&c=7&r=0&o=5&dpr=1.38&pid=1.7",
+	"https://th.bing.com/th/id/OIP.JkMKb1O3acQkvJVsON9yKwHaLH?w=186&h=279&c=7&r=0&o=5&dpr=1.38&pid=1.7",
 	"https://th.bing.com/th/id/OIP.JkMKb1O3acQkvJVsON9yKwHaLH?w=186&h=279&c=7&r=0&o=5&dpr=1.38&pid=1.7"
 ];
 
