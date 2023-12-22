@@ -74,7 +74,7 @@ var sobreFilmes = [
 	"Homem-Aranha: Longe de Casa",
 	"Godzilla vs. Kong",
 	"Interestelar",
-	"One Piece Stampede"
+	
 ];
 
 var linkFilmes = [
@@ -84,7 +84,7 @@ var linkFilmes = [
 	"https://youtu.be/MqQdHaBtvGs", //Homem-Aranha Longe de casa
 	"https://youtu.be/kIET9yMABD8", //Godzilla vs Kong
 	"https://youtu.be/i6avfCqKcQo", //Interestelar
-	"https://youtu.be/S8_YwFLCh4U" //OP:Stampede
+	
 ];
 
 var imgFilmes = [
